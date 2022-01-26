@@ -10,7 +10,7 @@ use App\Classroom;
 use App\Gallery;
 use App\Sponsor;
 use App\Faq;
-use App\PMB;
+use App\Pmb;
 use App\Amenity;
 
 class HomeController extends Controller
