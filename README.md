@@ -1,2 +1,2 @@
-# agp
-POLGETA AGP
+# POLGETA AGP
+Politeknik Geologi & Pertambangan AGP
